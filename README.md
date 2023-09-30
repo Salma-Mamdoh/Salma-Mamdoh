@@ -11,6 +11,7 @@
     [![Codeforces](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png)](https://codeforces.com/profile/Salma_Mamdoh.24)
     [![LeetCode](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png)](https://leetcode.com/Salma24/)
     [![Kaggle](https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-filled-tal-revivo.png)](https://www.kaggle.com/salmamamdoh)
+    [![hackerrank](https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg)](https://www.hackerrank.com/smmdwh985)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
