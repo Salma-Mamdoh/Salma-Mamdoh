@@ -4,12 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salma-mamdoh&label=Profile%20views&color=0e75b6&style=flat" alt="salma-mamdoh" /> </p>
 
-- 📫 How to reach me **smmdwh985@gmail.com**
+ ## Connect with me 🙋🏻‍♀️:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/salma-mamdoh-a4a070244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salma mamdoh" height="30" width="40" /></a>
-</p>
+  [![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/salma-mamdoh-a4a070244/)
+    [![Gmail](https://img.icons8.com/color/48/000000/gmail--v1.png)](mailto:smmdwh985@gmail.com)
+    [![Codeforces](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png)](https://codeforces.com/profile/Salma_Mamdoh.24)
+    [![LeetCode](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png)](https://leetcode.com/Salma24/)
+    [![Kaggle](https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-filled-tal-revivo.png)](https://www.kaggle.com/salmamamdoh)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -33,6 +34,7 @@
   </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+      <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png"/>
   </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
