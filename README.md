@@ -56,11 +56,9 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-</p>
-
 <div style="display:flex; flex-direction:column;">
   <img src="https://github-readme-stats.vercel.app/api?username=salma-mamdoh&show_icons=true&theme=dark" alt="salma-mamdoh" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salma-mamdoh&theme=dark" alt="salma-mamdoh" />
-    <br></br>
+   <br></br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salma-mamdoh&theme=dark" alt="salma-mamdoh" />
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=salma-mamdoh&theme=dark" alt="salma-mamdoh" />
 </div>
