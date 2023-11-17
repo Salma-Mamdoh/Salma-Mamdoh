@@ -59,6 +59,5 @@
 <div style="display:flex; flex-direction:column;">
   <img src="https://github-readme-stats.vercel.app/api?username=salma-mamdoh&show_icons=true&theme=dark" alt="salma-mamdoh" />
    <br></br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salma-mamdoh&theme=dark" alt="salma-mamdoh" />
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=salma-mamdoh&theme=dark" alt="salma-mamdoh" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salma-mamdoh&theme=dark" alt="salma-mamdoh" />
 </div>
